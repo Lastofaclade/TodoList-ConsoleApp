@@ -1,1 +1,3 @@
-# P10T1
+# TodoList-ConsoleApp
+
+A simple **console-based task manager** developed in **C#** as my final semester one project
